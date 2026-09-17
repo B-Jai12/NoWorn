@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=220&section=header&text=Noworn&fontSize=80&fontAlignY=38&desc=Customer-Driven%20Apparel%20%7C%20Design%20Freedom%20%7C%20Physical%20Expression&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
 
 <br/>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Formspree](https://img.shields.io/badge/Waitlist-Formspree-FF5A5F?style=for-the-badge&logo=mailgun&logoColor=white)](https://formspree.io)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[[JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[[Formspree](https://img.shields.io/badge/Waitlist-Formspree-FF5A5F?style=for-the-badge&logo=mailgun&logoColor=white)](https://formspree.io)
+[[License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-**[✨ Business Vision](#-about-noworn) &nbsp;•&nbsp; [🔄 Why Noworn is Different](#-why-noworn-is-different) &nbsp;•&nbsp; [🎨 The Customer Experience](#-the-customer-experience) &nbsp;•&nbsp; [💻 Technical Architecture](#-technical-architecture) &nbsp;•&nbsp; [🚀 Quick Start](#-local-development)**
+**[Business Vision](#-about-noworn) &nbsp;•&nbsp; [Why Noworn is Different](#-why-noworn-is-different) &nbsp;•&nbsp; [The Customer Experience](#-the-customer-experience) &nbsp;•&nbsp; [Technical Architecture](#-technical-architecture) &nbsp;•&nbsp; [Quick Start](#-local-development)**
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 # Part I: Business Concept & Vision
 
-## 👕 About Noworn
+##  About Noworn
 
 **Noworn is not another online clothing store.** 
 
@@ -44,7 +44,7 @@ With Noworn:
 
 ---
 
-## ⚡ Why Noworn is Different
+##  Why Noworn is Different
 
 | Traditional Apparel Model | The Noworn Model |
 |---|---|
@@ -60,7 +60,7 @@ Noworn:       Customer Creates ──► Customer Customizes ──► Noworn Pr
 
 ---
 
-## 🔄 The Customer Experience
+##  The Customer Experience
 
 Noworn guides users through a seamless 6-step creative journey:
 
@@ -86,7 +86,7 @@ Noworn guides users through a seamless 6-step creative journey:
 
 # Part II: Website Implementation & Technical Setup
 
-## 🖥️ Repository Implementation
+##  Repository Implementation
 
 The current repository represents the public **Launch & Waitlist Platform** for Noworn, built with performance, smooth micro-interactions, and zero framework overhead.
 
@@ -99,7 +99,7 @@ The current repository represents the public **Launch & Waitlist Platform** for 
 
 ---
 
-## 🛠️ Technical Architecture
+##  Technical Architecture
 
 ```
 NoWorn/
@@ -119,7 +119,7 @@ NoWorn/
 
 ---
 
-## 🚀 Local Development
+##  Local Development
 
 Because Noworn is built entirely with vanilla web standards, there are **no dependencies to install** and **no build steps required**.
 
@@ -149,7 +149,7 @@ Because Noworn is built entirely with vanilla web standards, there are **no depe
 
 ---
 
-## 👤 Author & Concept Creator
+##  Author & Concept Creator
 
-**Jaideep Botla** ([@B-Jai12](https://github.com/B-Jai12))  
+**Jaideep Botla** ([B-Jai12](https://github.com/B-Jai12))  
 B.Tech AIML Student & Product Builder • Innovating at the intersection of digital design, software, and physical consumer products.
