@@ -151,5 +151,5 @@ Because Noworn is built entirely with vanilla web standards, there are **no depe
 
 ##  Author & Concept Creator
 
-**Jaideep Botla** ([B-Jai12](https://github.com/B-Jai12))  
+**Jaideep** ([B-Jai12](https://github.com/B-Jai12))  
 B.Tech AIML Student & Product Builder • Innovating at the intersection of digital design, software, and physical consumer products.
